@@ -1,5 +1,5 @@
 # find_hosts
-program to search files fontent for ip's and url's with regex
+program to search files text for ip's and url's with regex
 
 ## Compile:
 
